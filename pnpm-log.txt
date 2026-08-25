@@ -1,0 +1,3 @@
+Scope: all 4 workspace projects
+✓ Lockfile passes supply-chain policies (verified 20d ago)
+[ERR_PNPM_CATALOG_ENTRY_NOT_FOUND_FOR_SPEC] No catalog entry 'typescript' was found for catalog 'default'.
